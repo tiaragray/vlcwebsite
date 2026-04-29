@@ -31,7 +31,7 @@ font-weight: normal;
 
 .hero{
 height:100vh; 
-background-image: url(images/banner2.PNG);
+background-image: url(banner2.PNG);
 background-size: cover;
 background-position: center;
 width: 100%;
@@ -246,7 +246,7 @@ form button {
 
 .heroAbout {
 height:60vh; 
-background-image: url(images/aboutvlc.PNG);
+background-image: url(aboutvlc.PNG);
 background-size: cover;
 background-position: center;
 width: 100%;
@@ -283,7 +283,7 @@ position: relative
 
 .heroPrograms{
 height: 50vh; 
-background-image: url(images/banner2.png);
+background-image: url(banner2.png);
 background-size: cover;
 background-position: center;
 width: 100%;
